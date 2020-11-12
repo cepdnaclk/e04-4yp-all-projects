@@ -1,6 +1,7 @@
 <div id="page">
 
-<div id="content"># Projects of E/04 Batch ## <a name="group1">1.</a> Windows Messenger for Department of Computer Engineering,University of Peradeniya
+# Projects of E/04 Batch 
+## <a name="group1">1.</a> Windows Messenger for Department of Computer Engineering,University of Peradeniya
 
 <table style="margin-left:25px" width="93%" cellspacing="3">
 
